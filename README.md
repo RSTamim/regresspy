@@ -1,2 +1,1 @@
 # regresspy
-Lab project
